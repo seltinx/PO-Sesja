@@ -22,6 +22,7 @@ public class Main
             totalTime += callTime;
         }
 
+
         Iterator<String> iter = words.iterator();
         for (int j = 1; j <= 20; ++j) {
             System.out.println(iter.next());
