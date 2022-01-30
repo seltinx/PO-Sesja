@@ -30,4 +30,5 @@ public class Main
         System.out.println(". . .");
         System.out.println(words.size() + " unikalnych słów. " + totalTime + " milisekund.");
     }
+
 }
